@@ -2,7 +2,7 @@
         <!-- area de localização -->
         <div class="col-sm-6 col-md-4">
             <div class="panel-footer" style="background: none;" >
-                <img src="images/logochurrascopequeno.png" alt="logo_pequeno" >
+                <img src="images/logo.jpg" alt="logo_pequeno" >
                 <br>
                 <i><strong> O melhor churrasco da zona Leste</strong></i>
                 <address>
